@@ -23,19 +23,11 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
-Preprocessing is a way of neatly organizing your css and it makes style files easier to navigate.
-
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
-Variables are my favorite for their convenience. Parametric mixins give me the most trouble until I get more practice with the syntax.
-
 3. How would you explain the concept of a variable to someone new to programming?
-It's a box that holds/stores a value
-
 4. What is the purpose of using functions in code?
-The purpose we use functions are to perform a particular task, and they are used to avoid repetition of commands within the program.
-
 5. What is JSON data?
-Javascrict Object Notation ) is an open standard file format, and data interchange format, that uses human-readable text to store and transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value).
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
@@ -44,17 +36,17 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 Follow these steps to set up your project:
 
-- [X] Create a forked copy of this project.
-- [X] Add your Team Lead as collaborator on Github.
-- [X] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [X] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [ ] Create a forked copy of this project.
+- [ ] Add your Team Lead as collaborator on Github.
+- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 
 ### Task 2a:  Minimum Viable Product - Responsive Design
 
 *Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
 
-* [X] Add a viewport meta tag to the head of your index.html page.
-* [X] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [ ] Add a viewport meta tag to the head of your index.html page.
+* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
@@ -68,11 +60,11 @@ Navigate to `index.js` and complete the MVP challenges. Note that you need to sc
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module but they build on the material you just studied. Time allowing, stretch your limits and see if you can deliver on the following optional goals:
 
-* [X] Use JavaScript to programmatically create HTML elements in the console and copy them to display all 20 artists on the page
-* [X] Create a function called `randomize` that takes a data array as an argument and returns a the same array in a randomized order.
-* [X] Use advanced array methods (.map, .reduce, .filer) to refactor your MVP code (create an array of all artists born in the 1900s with .filter, for example)
-* [X] Add responsive breakpoints to your code by using media queries
-* [X] Add CSS animations
+* [ ] Use JavaScript to programmatically create HTML elements in the console and copy them to display all 20 artists on the page
+* [ ] Create a function called `randomize` that takes a data array as an argument and returns a the same array in a randomized order.
+* [ ] Use advanced array methods (.map, .reduce, .filer) to refactor your MVP code (create an array of all artists born in the 1900s with .filter, for example)
+* [ ] Add responsive breakpoints to your code by using media queries
+* [ ] Add CSS animations
 
 ## Resources
 
@@ -86,6 +78,6 @@ After finishing your required elements, you can push your work further. These go
 
 Follow these steps for completing your project.
 
-- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [X] Add your team lead as a reviewer on the pull-request
-- [X] Your team lead will count the project as complete by merging the branch back into master
+- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [ ] Add your team lead as a reviewer on the pull-request
+- [ ] Your team lead will count the project as complete by merging the branch back into master
